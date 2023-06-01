@@ -1,20 +1,23 @@
 # HIP Delay Replacement of Burned HNT – Draft of a potential component
 
 ## Detailed Explanation
-The Helium Network of Networks (“Helium”) coordinates the deployment and operation of wireless radio devices to build and operate decentralized wireless networks. The Helium Network Token (HNT) is a key element of the coordination mechanism of Helium. 
-It coordinates 
+The Helium Network of Networks (“Helium”) coordinates the deployment and operation of wireless radio devices to build and operate decentralized wireless networks. The Helium Network Token (HNT) is a key element of the coordination mechanism of Helium.</br>
+It coordinates </br>
+</br>
 (a) The early build-out and the continuing growth of networks
 - By motivating people to build networks up to a minimum size needed to make them usable for potential users.
-- By indirectly motivating hardware manufacturers to scale up device production and thus harnessing economies of scale leading to cost reduction. 
-(b) Stable operation of networks, once they are fully built-out.
-- By motivating people to maintain their deployments and replace hardware at the end of its lifecycle.
-
-To fulfill this coordination function, the Helium community cumulatively decided that HNT issuance and supply should have the following properties:
-1. Maximum supply must be limited
-2. In the build-out and growth phase, periodic token emissions must decrease over time
-3. Token supply should grow up to an inflection point and then be deflationary
-4. Periodic emissions of HNT must always be divisible enough to not break the system from a technical point of view. (If the total periodic emissions cannot be divided in parts small enough to adequately reflect the adequate reward share of rewardable entities.) 
-5. Periodic token emissions should not decrease below a specified threshold to balance interests of HNT holders and rewardable entities.
+- By indirectly motivating hardware manufacturers to scale up device production and thus harnessing economies of scale leading to cost reduction. </br>
+</br>
+(b) Stable operation of networks, once they are fully built-out.</br>
+</br>
+- By motivating people to maintain their deployments and replace hardware at the end of its lifecycle. </br>
+</br>
+To fulfill this coordination function, the Helium community cumulatively decided that HNT issuance and supply should have the following properties:</br>
+ 1. Maximum supply must be limited</br>
+ 2. In the build-out and growth phase, periodic token emissions must decrease over time</br>
+ 3. Token supply should grow up to an inflection point and then be deflationary</br>
+ 4. Periodic emissions of HNT must always be divisible enough to not break the system from a technical point of view. (If the total periodic emissions cannot be divided in parts small enough to adequately reflect the adequate reward share of rewardable entities.) </br>
+ 5. Periodic token emissions should not decrease below a specified threshold to balance interests of HNT holders and rewardable entities.</br>
 These considerations still necessitate decisions on specifics and possibly finetuning of the specifics over time to account for learnings.
 
 In the past, the Helium Community has decided on the following specifics:</br>
